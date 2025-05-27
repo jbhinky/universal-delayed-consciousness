@@ -24,4 +24,4 @@ The theory is substrate-agnostic, testable, and intended to bridge disciplines i
 If referencing this theory, please use the citation provided in the `CITATION.cff` file or see the suggested formats below.
 
 APA:  
-Hinkson, J. B. (2025). *Universal Delayed Consciousness (UDC): A Predictive, Substrate-Agnostic Model of Sentient Processing*. Academia.edu. https://www.academia.edu/129500773/Universal_Delayed_Consciousness_UDC_A_Predictive_Substrate_Agnostic_Model_of_Sentient_Processing
+Hinkson, J. B. MA (2025). *Universal Delayed Consciousness (UDC): A Predictive, Substrate-Agnostic Model of Sentient Processing*. Academia.edu. https://www.academia.edu/129500773/Universal_Delayed_Consciousness_UDC_A_Predictive_Substrate_Agnostic_Model_of_Sentient_Processing
