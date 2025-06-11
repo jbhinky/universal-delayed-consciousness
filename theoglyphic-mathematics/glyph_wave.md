@@ -1,5 +1,5 @@
 ---
-title: Glyph: Wave ( ~ )
+title: Glyph Wave ( ~ )
 author: Joshua Hinkson
 description: The symbolic representation of unresolved potential within UDC and Theophilus-Axon, used to indicate pre-symbolic input states or predictive pathways.
 keywords: wave, potential, glyphs, symbolic state, UDC, unresolved input, simulation, Theophilus
