@@ -1,5 +1,5 @@
 ---
-title: Glyph: Awareness (A)
+title: Glyph Awareness (A)
 author: Joshua Hinkson
 description: The emergent layer of subjective response under UDC, representing the first experience of symbolic memory after delay.
 keywords: awareness, A, glyphs, subjective perception, UDC, Theophilus, symbolic memory, delay loop
