@@ -1,5 +1,5 @@
 ---
-title: Glyph: Delay (τ)
+title: Glyph Delay (τ)
 author: Joshua Hinkson
 description: The symbolic and functional representation of temporal processing delay within UDC and Theophilus-Axon systems, defining the gap between perception and integration.
 keywords: delay, glyph, τ, time processing, perception lag, UDC, symbolic timing, temporal recursion
