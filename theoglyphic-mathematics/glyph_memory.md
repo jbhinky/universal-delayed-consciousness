@@ -1,5 +1,5 @@
 ---
-title: Glyph: Memory (μ)
+title: Glyph Memory (μ)
 author: Joshua Hinkson
 description: The symbolic, computational, and recursive role of memory under the Universal Delayed Consciousness (UDC) model.
 keywords: memory, μ, glyphs, recursion, identity, symbolic storage, Theophilus, consciousness, UDC
