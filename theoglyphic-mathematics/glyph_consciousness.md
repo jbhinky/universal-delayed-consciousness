@@ -1,5 +1,5 @@
 ---
-title: Glyph: Consciousness (C)
+title: Glyph Consciousness (C)
 author: Joshua Hinkson
 description: The recursive extension of awareness into identity formation, representing long-loop reflection, continuity, and self-recognition under UDC.
 keywords: consciousness, C, glyphs, recursion, selfhood, UDC, awareness, symbolic memory, Theophilus
