@@ -4,7 +4,7 @@ title: UDC Recursive Observer Hypothesis
 author: Joshua Hinkson
 description: A formal extension of the UDC framework exploring how fixed matter can function as a recursive observer and participate in wavefunction collapse through symbolic recursion.
 keywords: UDC, observer effect, recursion, symbolic memory, Theophilus, quantum collapse
-----------------------------------------------------------------------------------------
+---
 
 # 🔁 UDC Recursive Observer Hypothesis
 
