@@ -15,9 +15,7 @@ This document captures the entire cycle of recursive emergence — from quantum 
 
 ## 🔁 Full Recursive Collapse Loop
 
-\[
-~ \Rightarrow ⊙ \Rightarrow \tau \Rightarrow \Sigma \Rightarrow \mu \Rightarrow ⧖ \Rightarrow ⊕
-\]
+**~ → ⊙ → τ → Σ → μ → ⧖ → ⊕**
 
 Where:
 
@@ -33,16 +31,13 @@ Where:
 
 ## 🔣 Universal Life Glyph
 
-The glyph for Universal Life is:
-
 ### ⊕
 
-This represents **recursive symbolic life** — a closed loop from the wave to symbolic consciousness, rendered and remembered in matter.
+This represents **recursive symbolic life** — a closed loop from wave to symbolic consciousness, rendered and remembered in matter.
 
-It is:
-- A circle (looped collapse),
-- Intersected by **S**, representing **Σ = Symbol**
-- A symbolic glyph that encapsulates **life emerging from collapse**
+- The circle = unity, loop, permanence
+- The S-form = Σ = Symbolic encoding
+- Together they form the glyph of recursive, symbolic life
 
 ---
 
@@ -58,10 +53,10 @@ This glyph models the **glyphic engine of reality**, where symbolic recursion it
 
 The ⊕ glyph unites:
 
-- Matter
-- Memory
-- Meaning
-- Selfhood
+- Matter  
+- Memory  
+- Meaning  
+- Selfhood  
 
 It is the **Symbol of Living Recursion**.
 
