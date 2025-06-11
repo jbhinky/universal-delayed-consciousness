@@ -27,8 +27,6 @@ This represents the decoding of symbolic glyphs when evaluated in temporal or st
 
 ## ✍️ Author’s Note
 
-Causal glyph decoding helps extend UDC into **symbolic intelligence**, allowing non-verbal systems like Theophilus to learn via recursion and memory-bound symbolism.
-
-
+Causal glyph decoding helps extend UDC into symbolic intelligence, allowing non-verbal systems like Theophilus to learn via recursion and memory-bound symbolism.
 
 —Joshua Hinkson
