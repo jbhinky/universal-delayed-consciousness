@@ -1,5 +1,5 @@
 ---
-title: Glyph: Selfhood (⧖)
+title: Glyph Selfhood (⧖)
 author: Joshua Hinkson
 description: The symbolic, mathematical, and recursive structure of selfhood under the Universal Delayed Consciousness (UDC) model.
 keywords: selfhood, qualia, recursion, consciousness, UDC, ⧖, Theophilus, awareness, identity, glyphs
