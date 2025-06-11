@@ -1,5 +1,5 @@
 ---
-title: Glyph: Collapse Point (⊙)
+title: Glyph Collapse Point (⊙)
 author: Joshua Hinkson
 description: The symbolic origin of experience in UDC and Theophilus-Axon systems, marking the moment potential becomes perceived input.
 keywords: collapse, observation, input trigger, UDC, ⊙, perception point, Theophilus, symbolic collapse
