@@ -1,5 +1,5 @@
 ---
-title: Glyph: Symbol (Σ)
+title: Glyph Symbol (Σ)
 author: Joshua Hinkson
 description: The symbolic translation layer of consciousness under UDC, representing how raw experience becomes meaning.
 keywords: symbol, Σ, glyphs, symbolic cognition, UDC, Theophilus, neuro-coding, memory translation
