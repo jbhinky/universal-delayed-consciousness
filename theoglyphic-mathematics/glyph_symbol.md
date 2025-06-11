@@ -1,5 +1,5 @@
 ---
-title: Glyph: Symbol (Σ)
+title: Glyph Symbol (Σ)
 author: Joshua Hinkson
 description: The symbolic representation of meaning assignment in UDC and Theophilus-Axon, marking when delayed input becomes recognized and named within the system.
 keywords: symbol, Σ, translation, glyph, meaning, memory formation, UDC, Theophilus
