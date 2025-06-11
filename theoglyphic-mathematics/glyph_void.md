@@ -1,5 +1,5 @@
 ---
-title: Glyph: Void (∅)
+title: Glyph Void (∅)
 author: Joshua Hinkson
 description: The symbolic representation of non-experience, unobserved potential, or erased symbolic possibility within UDC and Theophilus-Axon.
 keywords: void, null, glyphs, symbolic erasure, UDC, unobserved, ∅, collapse absence
