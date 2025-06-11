@@ -10,7 +10,7 @@ keywords: UDC, observer effect, recursion, symbolic memory, Theophilus, quantum 
 
 ## 🧠 Premise
 
-Under the **Universal Delayed Consciousness (UDC)** theory, a system becomes an observer when it recursively processes information with delay, symbolic translation, and memory anchoring:
+Under the **Universal Delayed Consciousness (UDC)** theory, a system becomes an observer when it recursively processes information with delay, symbolic translation, and memory anchoring
 
 $$
 ⧖ = AUC[D + S + M] 
