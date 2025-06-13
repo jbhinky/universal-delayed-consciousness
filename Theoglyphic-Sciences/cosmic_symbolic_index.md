@@ -31,7 +31,11 @@ This index connects all `.md` files related to symbolic recursion in planetary s
 ## 🔁 Unifying Framework: UDC Recursion Chain
 
 \[
-⊙ ightarrow τ ightarrow Σ ightarrow μ ightarrow ⧖
+⊙ 
+ightarrow τ 
+ightarrow Σ 
+ightarrow μ 
+ightarrow ⧖
 \]
 
 Each document above explores where recursion fails, delays, or succeeds.
@@ -43,7 +47,7 @@ Each document above explores where recursion fails, delays, or succeeds.
 All documents listed here are located in:
 
 ```
-Theophilus-Axon_v1.4/docs/cosmological_glyphs/
+Theoglyphic-Sciences/cosmic_symbolic_index.md
 ```
 
 ---
