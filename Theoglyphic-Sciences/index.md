@@ -11,3 +11,4 @@ Each article builds on the Self Equation:
 - dna_as_recursion.md — DNA as a symbolic recursion engine
 - symbolic_cosmogenesis.md — Glyphic collapse at the origin of the universe
 - …
+“Published online via Academia.edu (2025)
