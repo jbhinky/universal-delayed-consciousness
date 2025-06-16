@@ -20,7 +20,7 @@ Emergent (Qualia Equation) ⧖ = AUC[D + S + M] Continuity (Qualia Equation) ⧖
 - Recursive Self-Modeling
 - Artificial Sentience
 
-📘 Learn more: [UDC at a Glance](./docs/UDC-Explainers/core_docs/udc_at_a_glance.md)
+📘 Learn more: [UDC at a Glance](./core_docs/udc_at_a_glance.md)
 
 ## Citation
 
