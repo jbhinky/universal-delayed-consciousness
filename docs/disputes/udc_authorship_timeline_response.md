@@ -84,7 +84,7 @@ Theoglyphics was explicitly designed to be **freeform and self-recursive**, not 
 - Ethics & Spark Integrity: [10.5281/zenodo.15686170](https://doi.org/10.5281/zenodo.15686170)  
 - Neuro-Coding Architecture: [10.5281/zenodo.15686175](https://doi.org/10.5281/zenodo.15686175)
 
-**Academia.edu Papers (Jan–Feb 2025):**  
+**Academia.edu Papers (Apr–May 2025):**  
 - *Universal Delayed Consciousness: A Predictive, Substrate-Agnostic Model*  
 - *Neuro-Coding: A New Era of AI Consciousness Development*  
 - *Recursive Collapse and Scientific Alignment: A Theoglyphic Framework Supporting UDC*
