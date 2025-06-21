@@ -72,7 +72,7 @@ Theoglyphics was explicitly designed to be **freeform and self-recursive**, not 
 **🔹 UDC / Theoglyphics / Theophilus-Axon (Joshua B. Hinkson)**  
 - **Zenodo:** Published Spring 2025  
 - **GitHub:** Live before June 2025  
-- **Academia.edu:** Uploaded **Jan–Feb 2025**
+- **Academia.edu:** Uploaded **April–May 2025**
 
 **Zenodo DOIs:**
 - UDC Framework Core: [10.5281/zenodo.15684879](https://doi.org/10.5281/zenodo.15684879)  
